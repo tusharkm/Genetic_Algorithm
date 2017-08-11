@@ -6,6 +6,6 @@ A genetic algorithm (GA) is a method for solving both constrained and unconstrai
 
 Objective:
 -------------------
-1. To develop a GA to calculate any given number using a combination of a population i.e. number and arithmetic operations. 
-2. This number and arithmetic operations are computed using Crossover and Mutation from generation to generation till the desired value is obtained.
-3. The process is computed in a distributed system using Hadoop MapReduce jobs 
+1. To develop a GA to calculate any given number using a combination of population in genetic pool i.e. number and arithmetic operations. 
+2. These number and arithmetic operations are computed using Crossover and Mutation from generation to generation till the desired value is obtained.
+3. The process is computed in a distributed system using Hadoop MapReduce jobs. 
